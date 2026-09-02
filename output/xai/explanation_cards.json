@@ -1,0 +1,65 @@
+{
+  "sertraline+tramadol": {
+    "drug1": "Sertraline",
+    "drug2": "Tramadol",
+    "risk_score": 0.9823,
+    "severity": "MODERATE",
+    "alert_badge": "RED",
+    "interaction_text": "Sertraline may increase the neuroexcitatory activities of Tramadol.",
+    "side_effect": "Personality disorder",
+    "dominant_drug": "Tramadol",
+    "shap_available": true,
+    "clinical_action": "DO NOT PRESCRIBE without specialist consultation"
+  },
+  "amoxicillin+methotrexate": {
+    "drug1": "Amoxicillin",
+    "drug2": "Methotrexate",
+    "risk_score": 0.8881,
+    "severity": "MODERATE",
+    "alert_badge": "RED",
+    "interaction_text": "The serum concentration of Amoxicillin can be increased when it is combined with Methotrexate.",
+    "side_effect": "Drug-induced liver injury",
+    "dominant_drug": "Amoxicillin",
+    "shap_available": true,
+    "clinical_action": "DO NOT PRESCRIBE without specialist consultation"
+  },
+  "warfarin+aspirin": {
+    "drug1": "Warfarin",
+    "drug2": "Aspirin",
+    "risk_score": 0.0,
+    "severity": "MODERATE",
+    "alert_badge": "YELLOW",
+    "interaction_text": "See clinical guidelines",
+    "side_effect": "Skin fibrosis",
+    "dominant_drug": "Aspirin",
+    "shap_available": true,
+    "clinical_action": "Monitor patient closely if prescribed"
+  },
+  "lisinopril+spironolactone": {
+    "drug1": "Lisinopril",
+    "drug2": "Spironolactone",
+    "risk_score": 0.9677,
+    "severity": "MODERATE",
+    "alert_badge": "RED",
+    "interaction_text": "The risk or severity of adverse effects can be increased when Spironolactone is combined with Lisinopril.",
+    "side_effect": "Not available",
+    "dominant_drug": null,
+    "shap_available": false,
+    "clinical_action": "DO NOT PRESCRIBE without specialist consultation"
+  },
+  "metformin+contrast media": {
+    "error": "One or both drugs not found in vocabulary"
+  },
+  "ciprofloxacin+tizanidine": {
+    "drug1": "Ciprofloxacin",
+    "drug2": "Tizanidine",
+    "risk_score": 0.9739,
+    "severity": "MODERATE",
+    "alert_badge": "RED",
+    "interaction_text": "Ciprofloxacin may increase the QTc-prolonging activities of Tizanidine.",
+    "side_effect": "Emotional disorder",
+    "dominant_drug": null,
+    "shap_available": false,
+    "clinical_action": "DO NOT PRESCRIBE without specialist consultation"
+  }
+}

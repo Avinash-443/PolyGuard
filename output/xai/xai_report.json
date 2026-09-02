@@ -1,0 +1,12 @@
+{
+  "phase": "Phase 2, Week 5",
+  "pairs_explained": 6,
+  "shap_pairs": 3,
+  "edge_importance_pairs": 3,
+  "cards_generated": 6,
+  "badge_distribution": {
+    "RED": 4,
+    "YELLOW": 1,
+    "GREEN": 0
+  }
+}
