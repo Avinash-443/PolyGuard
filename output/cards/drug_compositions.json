@@ -1,0 +1,93 @@
+{
+  "co-amoxiclav": [
+    "amoxicillin",
+    "clavulanate"
+  ],
+  "augmentin": [
+    "amoxicillin",
+    "clavulanate"
+  ],
+  "trimethoprim-sulfamethoxazole": [
+    "trimethoprim",
+    "sulfamethoxazole"
+  ],
+  "co-trimoxazole": [
+    "trimethoprim",
+    "sulfamethoxazole"
+  ],
+  "piperacillin-tazobactam": [
+    "piperacillin",
+    "tazobactam"
+  ],
+  "amlodipine-atorvastatin": [
+    "amlodipine",
+    "atorvastatin"
+  ],
+  "perindopril-amlodipine": [
+    "perindopril",
+    "amlodipine"
+  ],
+  "bisoprolol-hydrochlorothiazide": [
+    "bisoprolol",
+    "hydrochlorothiazide"
+  ],
+  "valsartan-hydrochlorothiazide": [
+    "valsartan",
+    "hydrochlorothiazide"
+  ],
+  "losartan-hydrochlorothiazide": [
+    "losartan",
+    "hydrochlorothiazide"
+  ],
+  "lisinopril-hydrochlorothiazide": [
+    "lisinopril",
+    "hydrochlorothiazide"
+  ],
+  "co-codamol": [
+    "codeine"
+  ],
+  "co-dydramol": [
+    "dihydrocodeine"
+  ],
+  "aspirin-dipyridamole": [
+    "aspirin",
+    "dipyridamole"
+  ],
+  "metformin-sitagliptin": [
+    "metformin",
+    "sitagliptin"
+  ],
+  "metformin-glipizide": [
+    "metformin",
+    "glipizide"
+  ],
+  "metformin-pioglitazone": [
+    "metformin",
+    "pioglitazone"
+  ],
+  "salbutamol-ipratropium": [
+    "salbutamol",
+    "ipratropium"
+  ],
+  "fluticasone-salmeterol": [
+    "fluticasone",
+    "salmeterol"
+  ],
+  "budesonide-formoterol": [
+    "budesonide",
+    "formoterol"
+  ],
+  "olanzapine-fluoxetine": [
+    "olanzapine",
+    "fluoxetine"
+  ],
+  "amitriptyline-chlordiazepoxide": [
+    "amitriptyline",
+    "chlordiazepoxide"
+  ],
+  "amlodipine-valsartan-hydrochlorothiazide": [
+    "amlodipine",
+    "valsartan",
+    "hydrochlorothiazide"
+  ]
+}

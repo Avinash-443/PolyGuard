@@ -1,0 +1,10 @@
+{
+  "risk_threshold": 0.5,
+  "uncertainty_threshold": 0.22,
+  "n_mc_passes": 30,
+  "multi_ingredient_drugs": 23,
+  "comorbidity_profiles": 6,
+  "drug_vocabulary_size": 2481,
+  "interaction_pairs": 382270,
+  "twosides_pairs": 423950
+}

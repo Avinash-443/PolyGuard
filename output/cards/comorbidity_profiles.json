@@ -1,0 +1,81 @@
+{
+  "kidney_failure": {
+    "display_name": "Chronic Kidney Disease / Renal Failure",
+    "risk_keywords": [
+      "renal",
+      "kidney",
+      "nephro",
+      "creatinine",
+      "excretion",
+      "clearance",
+      "glomerular"
+    ],
+    "warning": "Reduced renal clearance \u2014 drug accumulation risk is elevated. Dose reduction may be required.",
+    "risk_multiplier": 1.4
+  },
+  "liver_disease": {
+    "display_name": "Liver Disease / Hepatic Impairment",
+    "risk_keywords": [
+      "hepato",
+      "liver",
+      "cyp",
+      "metabolism",
+      "hepatic",
+      "enzyme",
+      "cytochrome"
+    ],
+    "warning": "Impaired hepatic metabolism \u2014 CYP enzyme activity is reduced. Interaction risk is significantly elevated.",
+    "risk_multiplier": 1.5
+  },
+  "diabetes": {
+    "display_name": "Diabetes Mellitus",
+    "risk_keywords": [
+      "glucose",
+      "glycemic",
+      "insulin",
+      "hypoglycemia",
+      "blood sugar",
+      "diabetes"
+    ],
+    "warning": "Glycemic control may be affected by this drug combination. Blood sugar monitoring is advised.",
+    "risk_multiplier": 1.2
+  },
+  "heart_failure": {
+    "display_name": "Heart Failure / Cardiac Disease",
+    "risk_keywords": [
+      "cardiac",
+      "heart",
+      "qt",
+      "arrhythmia",
+      "bradycardia",
+      "tachycardia",
+      "myocardial"
+    ],
+    "warning": "Cardiac conduction may be affected. QTc prolongation risk is elevated in heart failure patients.",
+    "risk_multiplier": 1.5
+  },
+  "hypertension": {
+    "display_name": "Hypertension",
+    "risk_keywords": [
+      "blood pressure",
+      "hypotension",
+      "antihypertensive",
+      "vasodilation",
+      "vasoconstriction"
+    ],
+    "warning": "Blood pressure control may be disrupted by this combination. Monitor BP closely.",
+    "risk_multiplier": 1.2
+  },
+  "copd": {
+    "display_name": "COPD / Respiratory Disease",
+    "risk_keywords": [
+      "broncho",
+      "respiratory",
+      "pulmonary",
+      "breathing",
+      "airway"
+    ],
+    "warning": "Respiratory function may be further compromised by this drug combination.",
+    "risk_multiplier": 1.3
+  }
+}
