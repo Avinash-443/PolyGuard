@@ -1,0 +1,50 @@
+{
+  "sertraline+tramadol": {
+    "drug1": "Sertraline",
+    "drug2_private": "Tramadol",
+    "prob_normal": 0.9833,
+    "prob_masked": 0.0037,
+    "prob_random_drug": 0.9784,
+    "score_differs_from_normal": true,
+    "private_embedding_is_zero": true,
+    "private_embedding_norm": 0.0,
+    "not_same_as_random": true,
+    "patent_claim_verified": true
+  },
+  "amoxicillin+methotrexate": {
+    "drug1": "Amoxicillin",
+    "drug2_private": "Methotrexate",
+    "prob_normal": 0.8906,
+    "prob_masked": 0.0349,
+    "prob_random_drug": 0.0,
+    "score_differs_from_normal": true,
+    "private_embedding_is_zero": true,
+    "private_embedding_norm": 0.0,
+    "not_same_as_random": true,
+    "patent_claim_verified": true
+  },
+  "warfarin+aspirin": {
+    "drug1": "Warfarin",
+    "drug2_private": "Aspirin",
+    "prob_normal": 0.0,
+    "prob_masked": 0.0699,
+    "prob_random_drug": 0.1966,
+    "score_differs_from_normal": true,
+    "private_embedding_is_zero": true,
+    "private_embedding_norm": 0.0,
+    "not_same_as_random": true,
+    "patent_claim_verified": true
+  },
+  "ciprofloxacin+tizanidine": {
+    "drug1": "Ciprofloxacin",
+    "drug2_private": "Tizanidine",
+    "prob_normal": 0.9753,
+    "prob_masked": 0.0094,
+    "prob_random_drug": 0.0,
+    "score_differs_from_normal": true,
+    "private_embedding_is_zero": true,
+    "private_embedding_norm": 0.0,
+    "not_same_as_random": true,
+    "patent_claim_verified": true
+  }
+}

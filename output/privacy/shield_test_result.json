@@ -1,0 +1,15 @@
+{
+  "new_drug": "Tramadol",
+  "overall_badge": "GREEN",
+  "summary": {
+    "full_share_checks": 2,
+    "private_checks": 1,
+    "blind_spots": 1,
+    "red_alerts": 0,
+    "yellow_alerts": 0,
+    "green_alerts": 3
+  },
+  "blind_spot_warning": "WARNING: One or more medications are fully private. The interaction check is INCOMPLETE for those drugs. Proceed with caution and consult the patient directly.",
+  "full_share_count": 2,
+  "private_count": 1
+}

@@ -1,0 +1,11 @@
+{
+  "privacy_levels": [
+    "full_share",
+    "interaction_only",
+    "full_private"
+  ],
+  "zero_mask_verified": true,
+  "verification_pairs": 4,
+  "risk_threshold": 0.5,
+  "uncertainty_threshold": 0.22
+}
