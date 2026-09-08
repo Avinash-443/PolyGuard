@@ -1,0 +1,15 @@
+{
+  "tests_run": 6,
+  "tests_passed": 6,
+  "tests_failed": 0,
+  "test_names": [
+    "Patient search by phone number",
+    "Doctor view applies privacy rules",
+    "Patient sees all own medications",
+    "Patient updates privacy level",
+    "Doctor override logging",
+    "Master interaction checker full system test"
+  ],
+  "patient_id": "PT1B45C2",
+  "doctor_id": "DRD35EDD"
+}

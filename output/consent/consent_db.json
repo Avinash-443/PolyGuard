@@ -1,0 +1,94 @@
+{
+  "patients": {
+    "PT1B45C2": {
+      "patient_id": "PT1B45C2",
+      "name": "John Patient",
+      "phone": "+91-9876543210",
+      "age": 72,
+      "comorbidities": [
+        "kidney_failure",
+        "heart_failure"
+      ],
+      "medications": [
+        {
+          "med_id": "feaee68c",
+          "drug_name": "warfarin",
+          "drug_display": "Warfarin",
+          "dose": "5mg",
+          "privacy_level": "full_share",
+          "prescribed_by": "DRD35EDD",
+          "prescribed_at": "2026-09-08T13:07:22.081788",
+          "active": true,
+          "override_reason": null
+        },
+        {
+          "med_id": "53d431a7",
+          "drug_name": "sertraline",
+          "drug_display": "Sertraline",
+          "dose": "50mg",
+          "privacy_level": "interaction_only",
+          "prescribed_by": "DRD35EDD",
+          "prescribed_at": "2026-09-08T13:07:22.082467",
+          "active": true,
+          "override_reason": null,
+          "privacy_updated_at": "2026-09-08T13:07:22.087278"
+        },
+        {
+          "med_id": "24345c79",
+          "drug_name": "metformin",
+          "drug_display": "Metformin",
+          "dose": "500mg",
+          "privacy_level": "full_share",
+          "prescribed_by": "DRD35EDD",
+          "prescribed_at": "2026-09-08T13:07:22.083058",
+          "active": true,
+          "override_reason": null
+        },
+        {
+          "med_id": "5583548e",
+          "drug_name": "alprazolam",
+          "drug_display": "Alprazolam",
+          "dose": "0.5mg",
+          "privacy_level": "full_private",
+          "prescribed_by": "DRD35EDD",
+          "prescribed_at": "2026-09-08T13:07:22.083624",
+          "active": true,
+          "override_reason": null
+        },
+        {
+          "med_id": "33a6aecb",
+          "drug_name": "tramadol",
+          "drug_display": "Tramadol",
+          "dose": "50mg",
+          "privacy_level": "full_share",
+          "prescribed_by": "DRD35EDD",
+          "prescribed_at": "2026-09-08T13:07:22.088327",
+          "active": true,
+          "override_reason": "Patient in severe post-operative pain. Risk accepted after specialist consultation."
+        }
+      ],
+      "created_by": "DRD35EDD",
+      "created_at": "2026-09-08T13:07:22.081117",
+      "temp_password": "poly0CB8",
+      "password_changed": false
+    }
+  },
+  "doctors": {
+    "DRD35EDD": {
+      "doctor_id": "DRD35EDD",
+      "name": "Dr. Asha N",
+      "specialty": "Clinical Pharmacology",
+      "created_at": "2026-09-08T13:07:22.079952"
+    }
+  },
+  "override_logs": [
+    {
+      "log_id": "b08c363f",
+      "patient_id": "PT1B45C2",
+      "drug_name": "tramadol",
+      "doctor_id": "DRD35EDD",
+      "reason": "Patient in severe post-operative pain. Risk accepted after specialist consultation.",
+      "timestamp": "2026-09-08T13:07:22.089321"
+    }
+  ]
+}
