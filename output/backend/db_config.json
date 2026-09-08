@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 5432,
+  "database": "polyguard",
+  "user": "postgres",
+  "demo_doctor_id": "DR000001",
+  "demo_patient_id": "PT000001",
+  "demo_doctor_email": "asha.n@vit.ac.in",
+  "demo_doctor_pass": "doctor123",
+  "demo_patient_phone": "+91-9876543210",
+  "demo_patient_pass": "patient123"
+}
